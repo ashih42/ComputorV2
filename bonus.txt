@@ -1,0 +1,51 @@
+Bonus:
+
+- Phat-ass UML class diagram!
+
+- Clean and maintainable CFG grammar definition in EBNF!
+
+- 3 modes:
+	- Interactive mode
+	- File-proccessing mode
+	- Single statement-processing mode
+
+- (Interactive mode) Customizable prompt, e.g. export COMPUTOR_PROMPT='u w0t m8? '
+
+- (Interactive mode) Useful command history!
+
+- Super helpful parsing and runtime error messages!
+
+- Can have any/no whitespaces between tokens!
+
+- Can input numbers in scientific notation, e.g. 2e-3
+
+- Allow implicit multiplication, e.g. 5x, 2f(3), 4(5 + 6), etc.
+
+- Functions can take arbitrary number of args
+
+- Can evaluate nested function calls, e.g. f(g(x))
+
+- Can delegate a function with another function, and even endless recursion!
+
+- Solves polynomial equation showing many intermediate steps!
+
+- @VARS command to display all variables defined so far!
+
+- @FUNCS command to display all functions defined so far!
+
+- @DANCE command very powerful!
+
+- @DOGE command even more very powerful!
+
+- Built-in constants:
+	- i
+	- pi
+
+- Built-in functions:
+	- inv(x)
+	- sqrt(x)
+	- sin(x)
+	- cos(x)
+	- tan(x)
+	- deg(x)
+	- rad(x)
