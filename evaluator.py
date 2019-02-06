@@ -55,7 +55,7 @@ class Evaluator:
 				return computor.Computor.imag
 			else:
 				number = float(number_token.value)
-				return computor.Computor.instance.mul(number, Computor.imag)
+				return computor.Computor.instance.mul(number, computor.Computor.imag)
 
 		def pi(self):
 			return computor.Computor.pi
