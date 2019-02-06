@@ -61,6 +61,15 @@ c ^ 2
 # Matrix power: c ^ 3
 c ^ 3
 
+# nope = [[1,2];[1,2]]
+nope = [[1,2];[1,2]]
+
+# inv(nope) = ?
+inv(nope) = ?
+
+# inv(a) = ?
+inv(a) = ?
+
 # cInv = inv(c)
 cInv = inv(c)
 
