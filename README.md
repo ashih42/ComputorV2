@@ -1,5 +1,5 @@
 # ComputorV2
-A calculator interpreter than can operate on real, complex numbers, and 2D matrix data types, store variables, define and evaluate functions, and solve quadratic equations in Python using [lark-parser](https://github.com/lark-parser/lark). (42 Silicon Valley)
+A calculator interpreter than can operate on real, complex numbers, and 2D matrix data types, store variables, define and evaluate functions, and solve [quadratic equations](https://en.wikipedia.org/wiki/Quadratic_equation) in Python using [lark-parser](https://github.com/lark-parser/lark). (42 Silicon Valley)
 
 <p float="left">
   <img src="https://github.com/ashih42/ComputorV2/blob/master/Screenshots/screenshot1.png" width="600" />
