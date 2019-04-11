@@ -50,8 +50,8 @@ python3 main.py -f file
 * `sin(x)` Sine of `x` in radians.
 * `cos(x)` Cosine of `x` in radians.
 * `tan(x)` Tangent of `x` in radians.
-* `deg(x)` Convert `x` radians to degrees.
-* `rad(x)` Convert `x` degrees to radians.
+* `deg(x)` Convert `x` from radians to degrees.
+* `rad(x)` Convert `x` from degrees to radians.
 
 ### Useful Commands
 * `@VARS` List all variables.
